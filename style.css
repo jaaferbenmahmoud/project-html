@@ -1,0 +1,21 @@
+body{
+color: blue;
+background-color: gray;
+font: italic 12PX sans-serif;
+background-image: url("./website.jpg");
+background-repeat: no-repeat; 
+background-size: cover;
+}
+p{
+    color: red;
+}
+#a{
+    color: black;
+
+    
+}
+.ahmed{color: bisque;}
+OL li{color: aqua;}
+#aaaa{
+    background-color: rgb(255, 0, 144);
+}
