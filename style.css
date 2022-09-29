@@ -5,6 +5,8 @@ font: italic 12PX sans-serif;
 background-image: url("./website.jpg");
 background-repeat: no-repeat; 
 background-size: cover;
+
+
 }
 p{
     color: red;
@@ -14,8 +16,18 @@ p{
 
     
 }
-.ahmed{color: bisque;}
+.ahmed{color: bisque;
+    font-size: 40PX;}
+
 OL li{color: aqua;}
 #aaaa{
     background-color: rgb(255, 0, 144);
+    vi
 }
+#tt{
+    width: 240PX;
+    height: 200px; 
+
+}
+#qq{color: rgb(220, 20, 20);
+font-size: ;}
