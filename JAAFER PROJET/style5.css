@@ -1,0 +1,99 @@
+
+*{margin: 0;
+    padding: 0;
+
+
+}
+
+
+.nav{overflow:hidden;background-color: rgb(21, 22, 22);
+ ;
+}
+
+
+
+.nav a{float: left;
+    color: rgb(237, 237, 232);
+    text-align: center;
+    padding: 20px 14px ;
+    text-decoration: none;
+    width: 100px;
+    font-size: 30PX;
+font-weight: bold;
+padding-top:30PX ;
+padding-left: 3PX;
+}
+.nav a:hover{
+    color: azure;
+    background-color: rgb(88, 74, 44);
+}
+.nav b{
+
+    color: rgb(247, 243, 243);
+    float: right;
+    font-size: 30PX;
+    ;
+    margin-top:25PX ;
+    margin-right: 20PX;
+}
+.nav a img{
+    width: 50PX;
+    height: 30PX;
+    margin-right: 40PX;
+}
+.aboutme h1{color: brown;
+margin-left: 450px;
+
+}
+.aboutme P{
+color: rgb(150, 150, 138);
+margin-left:500px ;
+margin-top:20PX ;
+}
+.aboutmyjob ul li {color: brown;
+margin-left: 20PX;
+mar
+
+/*work and media*/
+
+}
+.media img{width: 220PX;
+    height: 120PX;
+    padding:5PX 30PX  ;
+    }
+    .media img{
+margin-left: 200PX;
+
+    }
+.video h1{color: rgb(34, 34, 10);position: stati;font-size: 40PX;
+margin-left: 390PX;
+margin-top: 40PX;}
+    
+    .video video{
+margin-left: 450PX;
+
+    }
+    .video p{
+font-size: 20PX;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    /*resume section*/
+.resume select{
+font-size: larger;
+margin-top: 40PX;
+
+}
+.resume select:hover{
+
+    color: rgb(246, 244, 248);
+    background-color: rgb(50, 30, 34);
+}
+.footerabout{
+font-size: 40PX;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 200PX;
+margin-left: 200PX;
+overflow: hidden;background-color: rgb(220, 245, 235);
+font-size:;
+
+}
